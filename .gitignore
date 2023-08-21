@@ -1,0 +1,5 @@
+# Ignorar una carpeta completa
+/.bsp/
+/.metals/
+/.vscode/
+/.scala-build/
